@@ -1,5 +1,11 @@
 # create-expo-stack
 
+## 2.4.2
+
+### Patch Changes
+
+- [#195](https://github.com/danstepanov/create-expo-stack/pull/195) [`ed2e92f`](https://github.com/danstepanov/create-expo-stack/commit/ed2e92fb3f7a670845a775aab7c534205cf6560a) Thanks [@frankcalise](https://github.com/frankcalise)! - Ignite project names accept kebab case, forced PascalCase conversion has been removed
+
 ## 2.4.1
 
 ### Patch Changes
